@@ -1,0 +1,26 @@
+[
+  {
+    "categoryid": 1,
+    "categoryName": "Başlangıç",
+    "id": "starter",
+    "icon": "utensils"
+  },
+  {
+    "categoryid": 2,
+    "categoryName": "Tatlılar",
+    "id": "dessert",
+    "icon": "ice-cream"
+  },
+  {
+    "categoryid": 3,
+    "categoryName": "Ana Yemek",
+    "id": "main-food",
+    "icon": "burger"
+  },
+  {
+    "categoryid": 4,
+    "categoryName": "İçecekler",
+    "id": "drinks",
+    "icon": "mug-hot"
+  }
+]
